@@ -1,2 +1,13 @@
-# student-management-system
-A Python-based system to manage student records with CRUD operations
+# Student Management System
+
+## Features
+- Add student
+- View students
+- Search student
+- Object-Oriented Programming used
+
+## Technologies
+- Python
+
+## How to Run
+python main.py
